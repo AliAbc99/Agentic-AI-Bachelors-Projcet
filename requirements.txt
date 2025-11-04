@@ -1,0 +1,10 @@
+python-dotenv
+yfinance
+duckduckgo-search
+groq
+agno
+sqlalchemy
+openbb
+aiofiles
+streamlit
+nest_asyncio
